@@ -29,10 +29,10 @@ Results:
 
 ## Results
 
-                                Logistic
-![]Perceptron(./output/part1-logistic.png)  |  ![](./output/part1-logistic.png) 
+   Perceptron                    |         Logistic
+![](./output/part1-logistic.png)  |  ![](./output/part1-logistic.png) 
 :-------------------------:|:-------------------------:
-SVM                                 Naive Bayes   
+SVM            |                                 Naive Bayes   
 ![](./output/part1-svm.png)  |  ![](./output/part1-multiNB.png)
 
 
