@@ -29,9 +29,9 @@ Results:
 
 ## Results
 
-:-------------------------:|:-------------------------:
- Perceptron              |     Logistic
-![](./output/part1-logistic.png)  |  ![](./output/part1-logistic.png) 
+
+SVM            |                                 Naive Bayes   
+![](./output/part1-svm.png)  |  ![](./output/part1-multiNB.png)
 :-------------------------:|:-------------------------:
 SVM            |                                 Naive Bayes   
 ![](./output/part1-svm.png)  |  ![](./output/part1-multiNB.png)
