@@ -29,11 +29,13 @@ Results:
 
 ## Results
 
-
-SVM            |                                 Naive Bayes   
-![](./output/part1-svm.png)  |  ![](./output/part1-multiNB.png)
+![](./output/parstic.png)  |  ![](./output/pastic.png) 
 :-------------------------:|:-------------------------:
-SVM            |                                 Naive Bayes   
+
+Perceptron   |                              Logistic
+![](./output/part1-logistic.png)  |  ![](./output/part1-logistic.png) 
+:-------------------------:|:-------------------------:
+SVM           |                      Naive Bayes   
 ![](./output/part1-svm.png)  |  ![](./output/part1-multiNB.png)
 
 
