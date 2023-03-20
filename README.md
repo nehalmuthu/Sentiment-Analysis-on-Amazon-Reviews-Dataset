@@ -1,7 +1,9 @@
 # Sentiment-Analysis-on-Amazon-Reviews-Dataset
 
 #### This project was done in 2 parts as a part of CSCI-544 Applied NLP coursework
+#### For complete detail check the report and code under Part-1 directory
 
+#### Here is a gist of Part-1
 ## PART 1
 
 #### We performed text classsification for sentiment analysis using the amazon reviews dataset
@@ -15,7 +17,6 @@
 
 ### Metrics for comparison:
 We reported the Precision, Recall, and f1-score per class and their averages on the testing split of our dataset.
-
 
 
 ## Results
