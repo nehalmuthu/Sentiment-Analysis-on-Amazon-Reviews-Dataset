@@ -29,7 +29,7 @@ Results:
 
 ## Results
 
-   Perceptron              |         Logistic
+ ![]  Perceptron              |      ![]   Logistic
 :-------------------------:|:-------------------------:
 
 ![](./output/part1-logistic.png)  |  ![](./output/part1-logistic.png) 
