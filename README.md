@@ -28,6 +28,7 @@ We reported the Precision, Recall, and f1-score per class and their averages on 
 
 
 
+#### Here is a gist of Part-1
 
 ## PART 2
 
