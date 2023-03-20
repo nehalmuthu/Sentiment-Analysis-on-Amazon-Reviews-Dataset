@@ -42,6 +42,7 @@ Extension of PART-1 we did 2 major changes
     - GRU
     - LSTM
 
+#### Built the models in Pytorch
 
 ## Results:
 
