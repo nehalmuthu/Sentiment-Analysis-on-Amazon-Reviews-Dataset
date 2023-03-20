@@ -29,9 +29,9 @@ Results:
 
 ## Results
 
-![](output/part1-perceptron.PNG)  |  ![](output/part1-logistic.PNG) 
+![](./output/part1-logistic.png)  |  ![](./output/part1-logistic.png) 
 :-------------------------:|:-------------------------:
-![](output/part1-svm.PNG)  |  ![](output/part1-multiNB.PNG)
+![](./output/part1-svm.png)  |  ![](./output/part1-multiNB.png)
 
 
 
