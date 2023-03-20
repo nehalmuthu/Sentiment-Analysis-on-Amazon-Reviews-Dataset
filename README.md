@@ -33,7 +33,7 @@ We reported the Precision, Recall, and f1-score per class and their averages on 
 
 Extension of PART-1 we did 2 major changes
 - pretrained “word2vec-google-news-300” was used for word embedding
-- used more sophisticated deep learning models
+- used deep learning models
 
 ### Models:
 - feedforward multilayer perceptron
@@ -43,22 +43,22 @@ Extension of PART-1 we did 2 major changes
     - LSTM
 
 
-### Results:
+## Results:
 
-#### PART-1 model accuracy on tf-idf vs word2vec
+## PART-1 model accuracy on tf-idf vs word2vec
 
 
 ![alt text](./output/rescomp.png)
 
 
 
-#### Feed forward Neural Network
+## Feed forward Neural Network
 
 ![alt text](./output/FNN.png)
 
 
 
-#### Recurrent Neural Networks
+## Recurrent Neural Networks
 
 
 ![alt text](./output/RNN.png)
